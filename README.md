@@ -1,2 +1,2 @@
 # projetoclinica
-Site para projeto integrador para curso técnico de informática.
+Site projeto integrador para o curso técnico de informática.
